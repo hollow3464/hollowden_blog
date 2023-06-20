@@ -1,6 +1,6 @@
 +++
 title = "El Impostor"
-date = 2023-06-23
+date = 2023-06-20
 [taxonomies]
 categories = ["textos"]
 tags = ["sueño"]
